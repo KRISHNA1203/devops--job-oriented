@@ -2,3 +2,7 @@
 add
 commit
 push
+
+BRANCHES
+git brach name 
+git checkout
